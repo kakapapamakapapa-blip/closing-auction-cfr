@@ -1,0 +1,14 @@
+{"voi":1,"var":0,"D":330,"lp_heur":1,"iters":4000000,"sec":20.0,"entries":144,"overflow":0,"u1":-0.83408,"u1_se":0.00611,"fill":0.8887,"unseen":0.0000}
+{"voi":1,"var":0,"D":330,"lp_heur":1,"iters":8000000,"sec":40.3,"entries":146,"overflow":0,"u1":-0.83451,"u1_se":0.00610,"fill":0.8867,"unseen":0.0000}
+{"voi":1,"var":0,"D":330,"lp_heur":1,"iters":16000000,"sec":80.4,"entries":150,"overflow":0,"u1":-0.84571,"u1_se":0.00613,"fill":0.8869,"unseen":0.0000}
+{"voi":1,"var":0,"D":330,"lp_heur":1,"iters":32000000,"sec":162.0,"entries":162,"overflow":0,"u1":-0.82149,"u1_se":0.00609,"fill":0.8863,"unseen":0.0000}
+{"voi":1,"var":1,"D":330,"lp_heur":1,"iters":4000000,"sec":21.9,"entries":3778,"overflow":0,"u1":-0.89196,"u1_se":0.00621,"fill":0.8934,"unseen":0.0000}
+{"voi":1,"var":1,"D":330,"lp_heur":1,"iters":8000000,"sec":43.3,"entries":4064,"overflow":0,"u1":-0.87012,"u1_se":0.00619,"fill":0.8870,"unseen":0.0000}
+{"voi":1,"var":1,"D":330,"lp_heur":1,"iters":16000000,"sec":86.9,"entries":4309,"overflow":0,"u1":-0.85925,"u1_se":0.00615,"fill":0.8903,"unseen":0.0000}
+{"voi":1,"var":1,"D":330,"lp_heur":1,"iters":32000000,"sec":170.9,"entries":4553,"overflow":0,"u1":-0.84999,"u1_se":0.00613,"fill":0.8876,"unseen":0.0000}
+{"voi":1,"var":2,"D":330,"lp_heur":1,"iters":4000000,"sec":21.2,"entries":21537,"overflow":0,"u1":-0.88818,"u1_se":0.00624,"fill":0.9027,"unseen":0.0001}
+{"voi":1,"var":2,"D":330,"lp_heur":1,"iters":8000000,"sec":42.7,"entries":25337,"overflow":0,"u1":-0.86859,"u1_se":0.00620,"fill":0.8938,"unseen":0.0001}
+{"voi":1,"var":2,"D":330,"lp_heur":1,"iters":16000000,"sec":85.3,"entries":29705,"overflow":0,"u1":-0.86749,"u1_se":0.00617,"fill":0.8885,"unseen":0.0000}
+{"voi":1,"var":2,"D":330,"lp_heur":1,"iters":32000000,"sec":168.6,"entries":34427,"overflow":0,"u1":-0.84374,"u1_se":0.00615,"fill":0.8889,"unseen":0.0000}
+{"voi":1,"var":3,"D":330,"lp_heur":1,"iters":4000000,"sec":23.6,"entries":206329,"overflow":0,"u1":-0.95320,"u1_se":0.00636,"fill":0.9133,"unseen":0.0028}
+{"voi":1,"var":3,"D":330,"lp_heur":1,"iters":8000000,"sec":45.2,"entries":291084,"overflow":0,"u1":-0.94754,"u1_se":0.00634,"fill":0.9095,"unseen":0.0020}

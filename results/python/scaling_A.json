@@ -1,0 +1,74 @@
+[
+ {
+  "K": 1,
+  "entries_full": 36,
+  "entries_H": 36,
+  "ratio": 1.0
+ },
+ {
+  "K": 2,
+  "entries_full": 190,
+  "entries_H": 118,
+  "ratio": 1.6101694915254237
+ },
+ {
+  "K": 3,
+  "entries_full": 914,
+  "entries_H": 338,
+  "ratio": 2.7041420118343193
+ },
+ {
+  "K": 4,
+  "entries_full": 4426,
+  "entries_H": 890,
+  "ratio": 4.973033707865168
+ },
+ {
+  "K": 5,
+  "entries_full": 21370,
+  "entries_H": 2218,
+  "ratio": 9.634806131650135
+ },
+ {
+  "K": 6,
+  "entries_full": 103194,
+  "entries_H": 5322,
+  "ratio": 19.390078917700112
+ },
+ {
+  "K": 7,
+  "entries_full": 498266,
+  "entries_H": 12426,
+  "ratio": 40.09866409142121
+ },
+ {
+  "K": 8,
+  "entries_full": 2405850,
+  "entries_H": 28426,
+  "ratio": 84.63554492366144
+ },
+ {
+  "K": 9,
+  "entries_full": 11616474,
+  "entries_H": 64010,
+  "ratio": 181.4790501484143
+ },
+ {
+  "K": 10,
+  "entries_full": 56089306,
+  "entries_H": 142346,
+  "ratio": 394.03499922723506
+ },
+ {
+  "K": 11,
+  "entries_full": 270823130,
+  "entries_H": 313354,
+  "ratio": 864.2721331146244
+ },
+ {
+  "K": 12,
+  "entries_full": 1307649754,
+  "entries_H": 684042,
+  "ratio": 1911.651264103666
+ }
+]

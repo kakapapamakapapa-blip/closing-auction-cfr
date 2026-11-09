@@ -1,0 +1,70 @@
+{
+ "K": 4,
+ "nodes": 544959,
+ "N_blueprint": 2000,
+ "mc_visits": 15000000.0,
+ "N_stage2": 300,
+ "N_stage3": 1000,
+ "stage_starts": [
+  2,
+  3,
+  4
+ ],
+ "rows": [
+  {
+   "strategy": "reference: CFR on phi_H (= full game), whole game",
+   "nashconv": 0.0031331581284170795,
+   "seconds": 124.74128103256226
+  },
+  {
+   "strategy": "blueprint: CFR on drop s0 and chi",
+   "nashconv": 0.11706936793624112,
+   "seconds": 130.7167408466339
+  },
+  {
+   "strategy": "reference + unsafe re-solve of period c",
+   "nashconv": 0.04642591991776679,
+   "seconds": 47.86829090118408
+  },
+  {
+   "strategy": "reference + Maxmargin re-solve of period c",
+   "nashconv": 0.0040244934158431,
+   "seconds": 86.65400671958923
+  },
+  {
+   "strategy": "unsafe 1: blueprint + MCCFR on phi_H from c-2",
+   "nashconv": 0.01506318846911503,
+   "seconds": 14.211866617202759
+  },
+  {
+   "strategy": "unsafe 2: + CFR on phi_H from c-1",
+   "nashconv": 0.008497350858525765,
+   "seconds": 13.38401198387146
+  },
+  {
+   "strategy": "unsafe 3: + CFR on phi_H for period c",
+   "nashconv": 0.08080129541416681,
+   "seconds": 43.880417823791504
+  },
+  {
+   "strategy": "Maxmargin 1: blueprint + MCCFR on phi_H from c-2",
+   "nashconv": 0.04449388831997303,
+   "seconds": 28.948829412460327
+  },
+  {
+   "strategy": "Maxmargin 2: + CFR on phi_H from c-1",
+   "nashconv": 0.019493663492837987,
+   "seconds": 30.28175449371338
+  },
+  {
+   "strategy": "Maxmargin 3: + CFR on phi_H for period c",
+   "nashconv": 0.019819376031032343,
+   "seconds": 88.61594271659851
+  },
+  {
+   "strategy": "Maxmargin single: blueprint + CFR on phi_H from c-2",
+   "nashconv": 0.020160627117819407,
+   "seconds": 116.05989170074463
+  }
+ ]
+}

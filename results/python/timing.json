@@ -1,0 +1,101 @@
+{
+ "visits_per_run": 20000000.0,
+ "runs": [
+  {
+   "K": 3,
+   "variant": "full",
+   "rep": 0,
+   "visits": 20000240,
+   "seconds": 19.217760826000358,
+   "us_per_visit": 0.9608765107818886
+  },
+  {
+   "K": 3,
+   "variant": "H",
+   "rep": 0,
+   "visits": 20000240,
+   "seconds": 17.184171981999953,
+   "us_per_visit": 0.859198288720533
+  },
+  {
+   "K": 3,
+   "variant": "full",
+   "rep": 1,
+   "visits": 20000240,
+   "seconds": 18.908509594000407,
+   "us_per_visit": 0.9454141347304036
+  },
+  {
+   "K": 3,
+   "variant": "H",
+   "rep": 1,
+   "visits": 20000240,
+   "seconds": 17.50978044300018,
+   "us_per_visit": 0.8754785164078122
+  },
+  {
+   "K": 3,
+   "variant": "full",
+   "rep": 2,
+   "visits": 20000240,
+   "seconds": 18.351326213999982,
+   "us_per_visit": 0.9175553000363986
+  },
+  {
+   "K": 3,
+   "variant": "H",
+   "rep": 2,
+   "visits": 20000240,
+   "seconds": 17.108502228999896,
+   "us_per_visit": 0.8554148464718371
+  },
+  {
+   "K": 4,
+   "variant": "full",
+   "rep": 0,
+   "visits": 20000024,
+   "seconds": 27.948199067000132,
+   "us_per_visit": 1.397408276460075
+  },
+  {
+   "K": 4,
+   "variant": "H",
+   "rep": 0,
+   "visits": 20000024,
+   "seconds": 23.610655468999994,
+   "us_per_visit": 1.1805313568123714
+  },
+  {
+   "K": 4,
+   "variant": "full",
+   "rep": 1,
+   "visits": 20000024,
+   "seconds": 28.419314272000065,
+   "us_per_visit": 1.4209640084431931
+  },
+  {
+   "K": 4,
+   "variant": "H",
+   "rep": 1,
+   "visits": 20000024,
+   "seconds": 22.075587885000004,
+   "us_per_visit": 1.1037780697163166
+  },
+  {
+   "K": 4,
+   "variant": "full",
+   "rep": 2,
+   "visits": 20000024,
+   "seconds": 27.410604253999736,
+   "us_per_visit": 1.370528568065705
+  },
+  {
+   "K": 4,
+   "variant": "H",
+   "rep": 2,
+   "visits": 20000024,
+   "seconds": 23.401976861000094,
+   "us_per_visit": 1.170097438933078
+  }
+ ]
+}

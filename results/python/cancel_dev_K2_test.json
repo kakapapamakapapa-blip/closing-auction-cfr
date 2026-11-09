@@ -1,0 +1,50 @@
+[
+ {
+  "K": 2,
+  "q": 0.6,
+  "lam": 0.6,
+  "N": 3000,
+  "u1_cancel": -0.4306115456035225,
+  "u1_nocancel": -0.446740385245,
+  "equilibrium_value": 0.016128839641477488,
+  "nashconv_cancel": 0.0001813027185639804,
+  "nashconv_nocancel": 7.877048999999081e-05,
+  "u1_embedded_check": -0.446740385245,
+  "private_value_at_nc": 0.0027438852450000772,
+  "private_value_at_c": 0.026869264001085136,
+  "outcomes_cancel": {
+   "p_unit_at_100_to_p1": 0.1987567591155157,
+   "p_fill_at_101_p1": 0.09378406168218241,
+   "p_cancel_p1": 0.3494638529270986
+  },
+  "outcomes_nocancel": {
+   "p_unit_at_100_to_p1": 0.17851759511249998,
+   "p_fill_at_101_p1": 0.07356099231249999,
+   "p_cancel_p1": 0.0
+  }
+ },
+ {
+  "K": 2,
+  "q": 0.6,
+  "lam": 0.3,
+  "N": 3000,
+  "u1_cancel": -0.2554156690945833,
+  "u1_nocancel": -0.25880154364374997,
+  "equilibrium_value": 0.0033858745491666675,
+  "nashconv_cancel": 8.002568916654074e-05,
+  "nashconv_nocancel": 9.433728749996817e-05,
+  "u1_embedded_check": -0.25880154364374997,
+  "private_value_at_nc": 0.0034261061437499407,
+  "private_value_at_c": 0.026958018405416728,
+  "outcomes_cancel": {
+   "p_unit_at_100_to_p1": 0.13127436710416662,
+   "p_fill_at_101_p1": 0.02630166967083333,
+   "p_cancel_p1": 0.15003333333333338
+  },
+  "outcomes_nocancel": {
+   "p_unit_at_100_to_p1": 0.16502479421249996,
+   "p_fill_at_101_p1": 0.06006819141249999,
+   "p_cancel_p1": 0.0
+  }
+ }
+]

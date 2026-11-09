@@ -1,0 +1,37 @@
+{
+ "K": 3,
+ "N": 10000,
+ "nodes": 63683,
+ "variants": {
+  "full": {
+   "entries_p1": 1252,
+   "nashconv_table": 0.0005805436325643232,
+   "nashconv_mixture": 0.0005805436325856395
+  },
+  "H": {
+   "entries_p1": 468,
+   "nashconv_table": 0.0005805436325705404,
+   "nashconv_mixture": 0.0005805436325849733
+  },
+  "H_s0m": {
+   "entries_p1": 238,
+   "nashconv_table": 0.00664621265707277,
+   "nashconv_mixture": 0.0009137118067161776
+  },
+  "H_s0": {
+   "entries_p1": 234,
+   "nashconv_table": 0.042452726336394964,
+   "nashconv_mixture": 0.04245272633641206
+  },
+  "H_chi": {
+   "entries_p1": 260,
+   "nashconv_table": 0.04293861736485627,
+   "nashconv_mixture": 0.04293861736485616
+  },
+  "A": {
+   "entries_p1": 130,
+   "nashconv_table": 0.09019342460115154,
+   "nashconv_mixture": 0.09019342460115143
+  }
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "K": 3,
+ "nodes": 46647,
+ "N_blueprint": 2000,
+ "N_stage": 1000,
+ "mc_visits": 2000000.0,
+ "blueprint": "A",
+ "stage_starts": [
+  1,
+  2,
+  3
+ ],
+ "subtree_share": {
+  "1": 0.9994211846420992,
+  "2": 0.9926469011940746,
+  "3": 0.9142710142131327
+ },
+ "rows": [
+  {
+   "strategy": "reference: full-game CFR",
+   "nashconv": 0.0031168527482430264,
+   "seconds": 7.8692708015441895
+  },
+  {
+   "strategy": "blueprint (A) everywhere",
+   "nashconv": 0.1155605721068369,
+   "seconds": 7.190145015716553
+  },
+  {
+   "strategy": "full-game CFR + unsafe exact re-solve from t=3",
+   "nashconv": 0.05596682578696632,
+   "seconds": 2.427189350128174
+  },
+  {
+   "strategy": "full-game CFR + safe exact re-solve from t=3",
+   "nashconv": 0.004943626148171454,
+   "seconds": 5.271806955337524
+  },
+  {
+   "strategy": "unsafe stage 1: blueprint + phi_H CFR from t=1",
+   "nashconv": 0.004211845389109792,
+   "seconds": 2.920970916748047
+  },
+  {
+   "strategy": "unsafe stage 2: + MCCFR from t=2",
+   "nashconv": 0.050052790862774366,
+   "seconds": 1.4677622318267822
+  },
+  {
+   "strategy": "unsafe stage 3: + exact CFR from t=3",
+   "nashconv": 0.12089972406441807,
+   "seconds": 2.6074013710021973
+  },
+  {
+   "strategy": "safe stage 1: blueprint + phi_H CFR from t=1",
+   "nashconv": 0.10973347298983516,
+   "seconds": 5.9275665283203125
+  },
+  {
+   "strategy": "safe stage 2: + MCCFR from t=2",
+   "nashconv": 0.04535144106711986,
+   "seconds": 3.0636627674102783
+  },
+  {
+   "strategy": "safe stage 3: + exact CFR from t=3",
+   "nashconv": 0.04340416117252688,
+   "seconds": 6.286075830459595
+  }
+ ]
+}

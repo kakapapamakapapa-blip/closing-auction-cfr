@@ -1,0 +1,16 @@
+{"contbuy":1,"voi":1,"var":0,"D":330,"lp_heur":1,"iters":2000000,"sec":9.7,"entries":156,"overflow":0,"u1":-0.87773,"u1_se":0.00613,"fill":0.9109,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":0,"D":330,"lp_heur":1,"iters":4000000,"sec":19.4,"entries":156,"overflow":0,"u1":-0.85585,"u1_se":0.00613,"fill":0.8950,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":0,"D":330,"lp_heur":1,"iters":8000000,"sec":39.1,"entries":161,"overflow":0,"u1":-0.85295,"u1_se":0.00608,"fill":0.8903,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":0,"D":330,"lp_heur":1,"iters":16000000,"sec":77.6,"entries":161,"overflow":0,"u1":-0.85837,"u1_se":0.00611,"fill":0.8921,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":7,"D":330,"lp_heur":1,"iters":2000000,"sec":9.4,"entries":410,"overflow":0,"u1":-0.76238,"u1_se":0.00513,"fill":0.9622,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":7,"D":330,"lp_heur":1,"iters":4000000,"sec":19.3,"entries":421,"overflow":0,"u1":-0.76300,"u1_se":0.00511,"fill":0.9683,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":7,"D":330,"lp_heur":1,"iters":8000000,"sec":38.7,"entries":433,"overflow":0,"u1":-0.73900,"u1_se":0.00514,"fill":0.9568,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":7,"D":330,"lp_heur":1,"iters":16000000,"sec":77.1,"entries":447,"overflow":0,"u1":-0.73156,"u1_se":0.00520,"fill":0.9511,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":8,"D":330,"lp_heur":1,"iters":2000000,"sec":10.1,"entries":600,"overflow":0,"u1":-0.84866,"u1_se":0.00561,"fill":0.9488,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":8,"D":330,"lp_heur":1,"iters":4000000,"sec":20.0,"entries":631,"overflow":0,"u1":-0.80815,"u1_se":0.00529,"fill":0.9423,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":8,"D":330,"lp_heur":1,"iters":8000000,"sec":39.5,"entries":653,"overflow":0,"u1":-0.79527,"u1_se":0.00526,"fill":0.9348,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":8,"D":330,"lp_heur":1,"iters":16000000,"sec":79.0,"entries":685,"overflow":0,"u1":-0.76818,"u1_se":0.00530,"fill":0.9449,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":1,"D":330,"lp_heur":1,"iters":2000000,"sec":9.8,"entries":3173,"overflow":0,"u1":-0.89634,"u1_se":0.00553,"fill":0.9467,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":1,"D":330,"lp_heur":1,"iters":4000000,"sec":19.9,"entries":3429,"overflow":0,"u1":-0.86931,"u1_se":0.00547,"fill":0.9461,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":1,"D":330,"lp_heur":1,"iters":8000000,"sec":39.9,"entries":3653,"overflow":0,"u1":-0.82609,"u1_se":0.00546,"fill":0.9431,"unseen":0.0000}
+{"contbuy":1,"voi":1,"var":1,"D":330,"lp_heur":1,"iters":16000000,"sec":79.0,"entries":3903,"overflow":0,"u1":-0.79692,"u1_se":0.00535,"fill":0.9476,"unseen":0.0000}
