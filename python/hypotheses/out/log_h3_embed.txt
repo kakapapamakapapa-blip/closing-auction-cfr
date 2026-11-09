@@ -1,0 +1,21 @@
+C  q=0.3 lam=0.3: NashConv hidden 1.55e-04 -> embedded in disclosure game 1.55e-04 (u1 -0.2555 = -0.2555)
+C  q=0.3 lam=0.45: NashConv hidden 1.41e-04 -> embedded in disclosure game 1.41e-04 (u1 -0.3584 = -0.3584)
+C  q=0.3 lam=0.6: NashConv hidden 1.58e-04 -> embedded in disclosure game 1.58e-04 (u1 -0.4387 = -0.4387)
+C  q=0.3 lam=0.75: NashConv hidden 2.04e-04 -> embedded in disclosure game 2.04e-04 (u1 -0.4923 = -0.4923)
+C  q=0.6 lam=0.3: NashConv hidden 1.20e-04 -> embedded in disclosure game 1.20e-04 (u1 -0.2554 = -0.2554)
+C  q=0.6 lam=0.45: NashConv hidden 1.15e-04 -> embedded in disclosure game 1.15e-04 (u1 -0.3662 = -0.3662)
+C  q=0.6 lam=0.6: NashConv hidden 2.72e-04 -> embedded in disclosure game 2.72e-04 (u1 -0.4307 = -0.4307)
+C  q=0.6 lam=0.75: NashConv hidden 1.91e-04 -> embedded in disclosure game 1.91e-04 (u1 -0.5074 = -0.5074)
+AB A_default : NashConv hidden 3.18e-03 -> embedded in disclosure game 2.90e-02
+AB B_default : NashConv hidden 2.16e-03 -> embedded in disclosure game 2.45e-02
+AB A_draw0   : NashConv hidden 3.24e-04 -> embedded in disclosure game 3.24e-04
+AB A_draw1   : NashConv hidden 8.61e-04 -> embedded in disclosure game 1.44e-03
+AB A_draw2   : NashConv hidden 3.28e-03 -> embedded in disclosure game 2.63e-02
+AB A_draw3   : NashConv hidden 3.92e-03 -> embedded in disclosure game 2.37e-02
+AB A_draw4   : NashConv hidden 3.31e-04 -> embedded in disclosure game 3.31e-04
+AB A_draw5   : NashConv hidden 8.57e-04 -> embedded in disclosure game 1.30e-03
+AB A_draw6   : NashConv hidden 4.98e-04 -> embedded in disclosure game 4.98e-04
+AB A_draw7   : NashConv hidden 5.55e-04 -> embedded in disclosure game 5.55e-04
+AB A_draw8   : NashConv hidden 1.70e-03 -> embedded in disclosure game 1.18e-02
+AB A_draw9   : NashConv hidden 1.43e-03 -> embedded in disclosure game 4.29e-03
+total 21.7s

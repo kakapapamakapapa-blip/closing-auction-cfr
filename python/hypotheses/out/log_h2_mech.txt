@@ -1,0 +1,21 @@
+K=2 q=0.3 lam=0.3 time   : V_all-V_nc=2.70e-02 V_nc-V_late=1.76e-02 p_cancel=0.150 submit_by_t={0: 0.5, 1: 0.0, 2: 0.182} nc=1.5e-04 1.0s
+K=2 q=0.3 lam=0.3 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.325 submit_by_t={0: 0.5, 1: 0.175, 2: 0.04} nc=1.1e-04 0.9s
+K=2 q=0.3 lam=0.45 time   : V_all-V_nc=1.25e-02 V_nc-V_late=6.75e-02 p_cancel=0.150 submit_by_t={0: 0.5, 1: 0.0, 2: 0.314} nc=1.4e-04 0.9s
+K=2 q=0.3 lam=0.45 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.175 submit_by_t={0: 0.5, 1: 0.325, 2: 0.0} nc=7.6e-05 1.0s
+K=2 q=0.3 lam=0.6 time   : V_all-V_nc=0.00e+00 V_nc-V_late=1.42e-01 p_cancel=0.000 submit_by_t={0: 0.5, 1: 0.15, 2: 0.098} nc=1.6e-04 1.0s
+K=2 q=0.3 lam=0.6 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.000 submit_by_t={0: 0.5, 1: 0.5, 2: 0.0} nc=4.8e-05 1.0s
+K=2 q=0.3 lam=0.75 time   : V_all-V_nc=4.22e-02 V_nc-V_late=1.93e-01 p_cancel=0.350 submit_by_t={0: 1.0, 1: 0.0, 2: 0.252} nc=2.0e-04 1.0s
+K=2 q=0.3 lam=0.75 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.000 submit_by_t={0: 0.5, 1: 0.5, 2: 0.0} nc=6.2e-05 1.2s
+K=2 q=0.6 lam=0.3 time   : V_all-V_nc=2.70e-02 V_nc-V_late=1.76e-02 p_cancel=0.150 submit_by_t={0: 0.5, 1: 0.0, 2: 0.278} nc=1.2e-04 1.0s
+K=2 q=0.6 lam=0.3 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.325 submit_by_t={0: 0.5, 1: 0.175, 2: 0.122} nc=6.7e-05 1.0s
+K=2 q=0.6 lam=0.45 time   : V_all-V_nc=8.64e-03 V_nc-V_late=7.14e-02 p_cancel=0.150 submit_by_t={0: 0.5, 1: 0.0, 2: 0.321} nc=1.1e-04 0.9s
+K=2 q=0.6 lam=0.45 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.175 submit_by_t={0: 0.5, 1: 0.325, 2: 0.0} nc=4.6e-05 0.9s
+K=2 q=0.6 lam=0.6 time   : V_all-V_nc=2.69e-02 V_nc-V_late=1.42e-01 p_cancel=0.349 submit_by_t={0: 0.999, 1: 0.0, 2: 0.15} nc=2.7e-04 0.9s
+K=2 q=0.6 lam=0.6 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.000 submit_by_t={0: 0.5, 1: 0.5, 2: 0.0} nc=3.9e-05 1.0s
+K=2 q=0.6 lam=0.75 time   : V_all-V_nc=3.36e-02 V_nc-V_late=2.02e-01 p_cancel=0.350 submit_by_t={0: 1.0, 1: 0.0, 2: 0.2} nc=1.9e-04 1.0s
+K=2 q=0.6 lam=0.75 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.000 submit_by_t={0: 0.5, 1: 0.5, 2: 0.0} nc=5.5e-05 1.0s
+K=3 q=0.6 lam=0.3 time   : V_all-V_nc=3.12e-02 V_nc-V_late=0.00e+00 p_cancel=0.255 submit_by_t={0: 0.5, 1: 0.0, 2: 0.0, 3: 0.356} nc=1.1e-04 12.9s
+K=3 q=0.6 lam=0.3 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.500 submit_by_t={0: 0.5, 1: 0.25, 2: 0.25, 3: 0.0} nc=4.4e-05 12.5s
+K=3 q=0.6 lam=0.6 time   : V_all-V_nc=3.00e-02 V_nc-V_late=1.29e-01 p_cancel=0.350 submit_by_t={0: 0.999, 1: 0.0, 2: 0.105, 3: 0.116} nc=1.9e-04 12.2s
+K=3 q=0.6 lam=0.6 prorata: V_all-V_nc=0.00e+00 V_nc-V_late=0.00e+00 p_cancel=0.250 submit_by_t={0: 0.5, 1: 0.25, 2: 0.5, 3: 0.0} nc=3.3e-05 12.4s
+total 65.7s

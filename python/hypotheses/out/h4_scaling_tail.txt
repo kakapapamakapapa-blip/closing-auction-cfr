@@ -1,0 +1,9 @@
+least squares through the origin on log-log: all three points alpha = 0.552; K = 3, 4 only alpha = 0.686
+free-intercept log-log fit (2 parameters, 1 residual dof): log s = -1.416 + 1.701 log c
+
+seed bootstrap (4000 reps): alpha (K = 3, 4) 2.5/50/97.5% = (0.533, 0.683, 0.917); alpha (K = 2, 3, 4) = (-1.367, 0.619, 0.874) with 955 reps dropped (K = 2 ratio 0 or undefined)
+
+speedup along the median curves at other accuracy targets (visits_full / visits_H; interpolated, no extrapolation)
+  K=2 c=1.61: [(0.0067, 0.83), (0.0122, 1.19), (0.0223, 1.28), (0.0407, 1.02), (0.0745, 1.37), (0.1362, 2.28)]
+  K=3 c=2.70: [(0.0079, 1.68), (0.0149, 1.81), (0.0283, 1.67), (0.0537, 2.13), (0.1019, 3.08), (0.1934, 3.54)]
+  K=4 c=4.97: [(0.0087, 3.32), (0.0172, 3.38), (0.0337, 3.34), (0.0663, 3.94), (0.1303, 6.67), (0.2562, 5.31)]

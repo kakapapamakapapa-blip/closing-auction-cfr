@@ -1,0 +1,16 @@
+H1_persist  K=3 q=0.6 lam=0.3 p=0.5 s=0.6 time    nc=8.0e-05 pv1=0.0159 pv2=0.0159 pc1=0.375 pc2=0.375 pre1=0.500 u1=-0.2841 12.7s
+H1_persist  K=3 q=0.6 lam=0.3 p=0.6 s=0.6 time    nc=9.3e-05 pv1=0.0229 pv2=0.0229 pc1=0.320 pc2=0.320 pre1=0.500 u1=-0.2771 12.5s
+H1_persist  K=3 q=0.6 lam=0.3 p=0.7 s=0.6 time    nc=1.1e-04 pv1=0.0312 pv2=0.0312 pc1=0.255 pc2=0.255 pre1=0.500 u1=-0.2688 12.3s
+H1_persist  K=3 q=0.6 lam=0.3 p=0.8 s=0.6 time    nc=8.6e-05 pv1=0.0304 pv2=0.0304 pc1=0.180 pc2=0.180 pre1=0.500 u1=-0.2592 14.8s
+H1_persist  K=3 q=0.6 lam=0.3 p=0.9 s=0.6 time    nc=9.8e-05 pv1=0.0166 pv2=0.0166 pc1=0.095 pc2=0.095 pre1=0.500 u1=-0.2484 12.9s
+H1_persist  K=3 q=0.6 lam=0.6 p=0.5 s=0.6 time    nc=1.5e-04 pv1=0.0301 pv2=0.0301 pc1=0.250 pc2=0.250 pre1=1.125 u1=-0.4375 12.1s
+H1_persist  K=3 q=0.6 lam=0.6 p=0.6 s=0.6 time    nc=2.0e-04 pv1=0.0380 pv2=0.0380 pc1=0.300 pc2=0.300 pre1=1.120 u1=-0.4386 12.5s
+H1_persist  K=3 q=0.6 lam=0.6 p=0.7 s=0.6 time    nc=1.9e-04 pv1=0.0300 pv2=0.0300 pc1=0.350 pc2=0.350 pre1=1.105 u1=-0.4389 12.0s
+H1_persist  K=3 q=0.6 lam=0.6 p=0.8 s=0.6 time    nc=1.9e-04 pv1=0.0210 pv2=0.0210 pc1=0.400 pc2=0.400 pre1=1.080 u1=-0.4384 12.4s
+H1_persist  K=3 q=0.6 lam=0.6 p=0.9 s=0.6 time    nc=1.9e-04 pv1=0.0103 pv2=0.0103 pc1=0.454 pc2=0.454 pre1=1.044 u1=-0.4378 12.9s
+H1_persist  K=3 q=0.3 lam=0.75 p=0.5 s=0.6 time    nc=2.4e-04 pv1=0.0150 pv2=0.0150 pc1=0.125 pc2=0.125 pre1=1.000 u1=-0.4797 12.4s
+H1_persist  K=3 q=0.3 lam=0.75 p=0.6 s=0.6 time    nc=2.4e-04 pv1=0.0216 pv2=0.0216 pc1=0.180 pc2=0.180 pre1=1.000 u1=-0.4844 12.5s
+H1_persist  K=3 q=0.3 lam=0.75 p=0.7 s=0.6 time    nc=2.7e-04 pv1=0.0294 pv2=0.0294 pc1=0.245 pc2=0.245 pre1=1.000 u1=-0.4900 13.1s
+H1_persist  K=3 q=0.3 lam=0.75 p=0.8 s=0.6 time    nc=3.0e-04 pv1=0.0384 pv2=0.0384 pc1=0.320 pc2=0.320 pre1=1.000 u1=-0.4965 12.9s
+H1_persist  K=3 q=0.3 lam=0.75 p=0.9 s=0.6 time    nc=3.4e-04 pv1=0.0264 pv2=0.0264 pc1=0.405 pc2=0.405 pre1=1.000 u1=-0.5039 12.4s
+total 190.6s

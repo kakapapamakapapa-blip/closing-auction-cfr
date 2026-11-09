@@ -1,0 +1,162 @@
+{
+ "C": [
+  {
+   "q": 0.3,
+   "lam": 0.3,
+   "nashconv_hidden_game": 0.0001549866173438108,
+   "nashconv_in_disclosure_game": 0.0001549866173438108,
+   "gain_p1": 7.74933086719054e-05,
+   "u1": -0.2554534776836719,
+   "u1_hidden": -0.2554534776836719
+  },
+  {
+   "q": 0.3,
+   "lam": 0.45,
+   "nashconv_hidden_game": 0.0001405524827344795,
+   "nashconv_in_disclosure_game": 0.00014093217023436466,
+   "gain_p1": 7.046608511718233e-05,
+   "u1": -0.3584332488976172,
+   "u1_hidden": -0.3584332488976172
+  },
+  {
+   "q": 0.3,
+   "lam": 0.6,
+   "nashconv_hidden_game": 0.0001578900075001055,
+   "nashconv_in_disclosure_game": 0.00015800813250010926,
+   "gain_p1": 7.900406625005463e-05,
+   "u1": -0.43868085750374997,
+   "u1_hidden": -0.43868085750374997
+  },
+  {
+   "q": 0.3,
+   "lam": 0.75,
+   "nashconv_hidden_game": 0.00020449160273444678,
+   "nashconv_in_disclosure_game": 0.00020449160273444678,
+   "gain_p1": 0.00010224580136725114,
+   "u1": -0.4922844430669922,
+   "u1_hidden": -0.4922844430669922
+  },
+  {
+   "q": 0.6,
+   "lam": 0.3,
+   "nashconv_hidden_game": 0.00012003342562505459,
+   "nashconv_in_disclosure_game": 0.00012003342562505459,
+   "gain_p1": 6.0016712812471784e-05,
+   "u1": -0.2554360010878125,
+   "u1_hidden": -0.2554360010878125
+  },
+  {
+   "q": 0.6,
+   "lam": 0.45,
+   "nashconv_hidden_game": 0.00011468743406256587,
+   "nashconv_in_disclosure_game": 0.00011544680906255822,
+   "gain_p1": 5.7723404531306866e-05,
+   "u1": -0.3662130859045314,
+   "u1_hidden": -0.3662130859045314
+  },
+  {
+   "q": 0.6,
+   "lam": 0.6,
+   "nashconv_hidden_game": 0.00027185338404789317,
+   "nashconv_in_disclosure_game": 0.00027185338404789317,
+   "gain_p1": 0.00013592669202394658,
+   "u1": -0.4306672680583846,
+   "u1_hidden": -0.4306672680583846
+  },
+  {
+   "q": 0.6,
+   "lam": 0.75,
+   "nashconv_hidden_game": 0.00019117125468759433,
+   "nashconv_in_disclosure_game": 0.00019117125468759433,
+   "gain_p1": 9.558562734379716e-05,
+   "u1": -0.5074303903148438,
+   "u1_hidden": -0.5074303903148438
+  }
+ ],
+ "AB": [
+  {
+   "name": "A_default",
+   "nashconv_hidden_game": 0.0031754878769147954,
+   "nashconv_in_disclosure_game": 0.028961001641891082,
+   "v_lo": -1.197387312404226,
+   "v_hi": -1.168426310762335
+  },
+  {
+   "name": "B_default",
+   "nashconv_hidden_game": 0.002158263722946474,
+   "nashconv_in_disclosure_game": 0.02454000423200231,
+   "v_lo": -1.0666424110818278,
+   "v_hi": -1.0421024068498255
+  },
+  {
+   "name": "A_draw0",
+   "nashconv_hidden_game": 0.0003236779257171918,
+   "nashconv_in_disclosure_game": 0.0003236779257171918,
+   "v_lo": -0.8029649657454612,
+   "v_hi": -0.802641287819744
+  },
+  {
+   "name": "A_draw1",
+   "nashconv_hidden_game": 0.0008607808794255378,
+   "nashconv_in_disclosure_game": 0.0014396316643379148,
+   "v_lo": -0.8372826959632442,
+   "v_hi": -0.8358430642989063
+  },
+  {
+   "name": "A_draw2",
+   "nashconv_hidden_game": 0.003279899729725866,
+   "nashconv_in_disclosure_game": 0.026273048387039033,
+   "v_lo": -1.2666084555293708,
+   "v_hi": -1.2403354071423318
+  },
+  {
+   "name": "A_draw3",
+   "nashconv_hidden_game": 0.003923437326833312,
+   "nashconv_in_disclosure_game": 0.023740978893777243,
+   "v_lo": -1.285635172453861,
+   "v_hi": -1.2618941935600838
+  },
+  {
+   "name": "A_draw4",
+   "nashconv_hidden_game": 0.0003310882307401286,
+   "nashconv_in_disclosure_game": 0.0003310882307401286,
+   "v_lo": -0.8348296501827115,
+   "v_hi": -0.8344985619519714
+  },
+  {
+   "name": "A_draw5",
+   "nashconv_hidden_game": 0.0008570380937550359,
+   "nashconv_in_disclosure_game": 0.0013013563546767637,
+   "v_lo": -0.8034613976268146,
+   "v_hi": -0.8021600412721378
+  },
+  {
+   "name": "A_draw6",
+   "nashconv_hidden_game": 0.0004983381614380722,
+   "nashconv_in_disclosure_game": 0.0004983381614380722,
+   "v_lo": -1.397514736346134,
+   "v_hi": -1.397016398184696
+  },
+  {
+   "name": "A_draw7",
+   "nashconv_hidden_game": 0.0005546059561265526,
+   "nashconv_in_disclosure_game": 0.0005546059561265526,
+   "v_lo": -1.4661785389595077,
+   "v_hi": -1.4656239330033811
+  },
+  {
+   "name": "A_draw8",
+   "nashconv_hidden_game": 0.0017015184905502245,
+   "nashconv_in_disclosure_game": 0.011825660479135358,
+   "v_lo": -1.6319095411143834,
+   "v_hi": -1.620083880635248
+  },
+  {
+   "name": "A_draw9",
+   "nashconv_hidden_game": 0.0014308324078259327,
+   "nashconv_in_disclosure_game": 0.004288586422491081,
+   "v_lo": -0.9959675815865741,
+   "v_hi": -0.991678995164083
+  }
+ ]
+}

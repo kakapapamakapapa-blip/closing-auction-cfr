@@ -1,0 +1,14 @@
+H2_prorata  K=3 q=0.3 lam=0.3 p=0.7 s=0.6 prorata nc=8.3e-05 pv1=0.0000 pv2=0.0000 pc1=0.500 pc2=0.500 pre1=1.000 u1=-0.2665 13.0s
+H2_time     K=3 q=0.3 lam=0.3 p=0.7 s=0.6 time    nc=1.5e-04 pv1=0.0312 pv2=0.0312 pc1=0.255 pc2=0.255 pre1=0.500 u1=-0.2688 12.7s
+H2_prorata  K=3 q=0.3 lam=0.45 p=0.7 s=0.6 prorata nc=5.2e-05 pv1=0.0000 pv2=0.0000 pc1=0.373 pc2=0.373 pre1=1.127 u1=-0.3670 12.9s
+H2_time     K=3 q=0.3 lam=0.45 p=0.7 s=0.6 time    nc=1.2e-04 pv1=0.0156 pv2=0.0156 pc1=0.150 pc2=0.150 pre1=0.650 u1=-0.3710 12.7s
+H2_prorata  K=3 q=0.3 lam=0.6 p=0.7 s=0.6 prorata nc=4.2e-05 pv1=0.0000 pv2=0.0000 pc1=0.250 pc2=0.250 pre1=1.250 u1=-0.4459 13.4s
+H2_time     K=3 q=0.3 lam=0.6 p=0.7 s=0.6 time    nc=1.6e-04 pv1=0.0000 pv2=0.0000 pc1=0.000 pc2=0.000 pre1=0.755 u1=-0.4434 13.0s
+H2_prorata  K=3 q=0.3 lam=0.75 p=0.7 s=0.6 prorata nc=5.9e-05 pv1=0.0000 pv2=0.0000 pc1=0.250 pc2=0.250 pre1=1.250 u1=-0.5157 12.8s
+H2_prorata  K=3 q=0.6 lam=0.3 p=0.7 s=0.6 prorata nc=4.4e-05 pv1=0.0000 pv2=0.0000 pc1=0.500 pc2=0.500 pre1=1.000 u1=-0.2711 13.3s
+H2_prorata  K=3 q=0.6 lam=0.45 p=0.7 s=0.6 prorata nc=2.8e-05 pv1=0.0000 pv2=0.0000 pc1=0.373 pc2=0.373 pre1=1.127 u1=-0.3792 13.3s
+H2_time     K=3 q=0.6 lam=0.45 p=0.7 s=0.6 time    nc=3.1e-04 pv1=0.0287 pv2=0.0287 pc1=0.498 pc2=0.498 pre1=0.998 u1=-0.3613 13.2s
+H2_prorata  K=3 q=0.6 lam=0.6 p=0.7 s=0.6 prorata nc=3.3e-05 pv1=0.0000 pv2=0.0000 pc1=0.250 pc2=0.250 pre1=1.250 u1=-0.4693 12.5s
+H2_prorata  K=3 q=0.6 lam=0.75 p=0.7 s=0.6 prorata nc=4.9e-05 pv1=0.0000 pv2=0.0000 pc1=0.250 pc2=0.250 pre1=1.250 u1=-0.5552 12.9s
+H2_time     K=3 q=0.6 lam=0.75 p=0.7 s=0.6 time    nc=2.2e-04 pv1=0.0204 pv2=0.0204 pc1=0.245 pc2=0.245 pre1=1.000 u1=-0.4990 12.7s
+total 168.6s

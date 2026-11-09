@@ -1,0 +1,4 @@
+{"q": 0.3, "lam": 0.75, "nodes_dis": 62191, "u1_hid": -0.49003, "u1_dis": -0.48748, "u2_dis": -0.48748, "nc_hid": 0.00027, "nc_dis": 0.00023, "nc_hidden_eq_in_dis_game": 0.00027, "pv1_hid": 0.0294, "pv1_dis": 0.03518, "pc1_hid": 0.24521, "pc1_dis": 0.29657, "seconds": 24.90196}
+{"q": 0.6, "lam": 0.45, "nodes_dis": 62191, "u1_hid": -0.36135, "u1_dis": -0.36149, "u2_dis": -0.36149, "nc_hid": 0.00031, "nc_dis": 0.00049, "nc_hidden_eq_in_dis_game": 0.00031, "pv1_hid": 0.02868, "pv1_dis": 0.02861, "pc1_hid": 0.49758, "pc1_dis": 0.49633, "seconds": 25.51251}
+{"q": 0.6, "lam": 0.75, "nodes_dis": 62191, "u1_hid": -0.49896, "u1_dis": -0.49014, "u2_dis": -0.49014, "nc_hid": 0.00022, "nc_dis": 0.00023, "nc_hidden_eq_in_dis_game": 0.00022, "pv1_hid": 0.02043, "pv1_dis": 0.01554, "pc1_hid": 0.24513, "pc1_dis": 0.199, "seconds": 25.14037}
+total 75.6s

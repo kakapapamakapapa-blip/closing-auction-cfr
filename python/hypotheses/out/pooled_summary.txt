@@ -1,0 +1,37 @@
+K=2 -> K=3 (time priority, slope 0.6): 20 pairs; K=3 higher 12, lower 7, equal 1
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.3, 0.7, 0.027, 0.0312)
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.45, 0.7, 0.0125, 0.0156)
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.6, 0.7, 0.0, 0.0)
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.75, 0.5, 0.0348, 0.015)
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.75, 0.6, 0.0418, 0.0216)
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.75, 0.7, 0.0422, 0.0294)
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.75, 0.8, 0.0281, 0.0384)
+  q, lam, persist, pv K=2, pv K=3: (0.3, 0.75, 0.9, 0.014, 0.0264)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.3, 0.5, 0.0319, 0.0159)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.3, 0.6, 0.036, 0.0229)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.3, 0.7, 0.027, 0.0312)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.3, 0.8, 0.018, 0.0304)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.3, 0.9, 0.009, 0.0166)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.45, 0.7, 0.0086, 0.0287)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.6, 0.5, 0.045, 0.0301)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.6, 0.6, 0.0359, 0.038)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.6, 0.7, 0.0269, 0.03)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.6, 0.8, 0.0179, 0.021)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.6, 0.9, 0.0089, 0.0103)
+  q, lam, persist, pv K=2, pv K=3: (0.6, 0.75, 0.7, 0.0336, 0.0204)
+slope monotonicity: non-decreasing 0, not 0
+pro rata: 32 runs, max pv over both players 0.0, p_cancel range 0.000-0.500, NashConv max 1.3e-04
+time priority (informative): 82 runs, pv>1e-3 in 69, pv range 0.0000-0.0467, NashConv max 4.2e-04
+equilibrium value of the cancel right (u1 with cancel - u1 without), K=2: time priority: [-0.0496, -0.0441, -0.0386, -0.0331, -0.0302, -0.0276, -0.0268, -0.0235, -0.0212, -0.021, -0.0201, -0.017, -0.0168, -0.0142, -0.0127, -0.0113, -0.0085, -0.0085, -0.0076, -0.0057, -0.0042, -0.0028, 0.0, -0.0, -0.0, -0.0, 0.0011, 0.0011, 0.0023, 0.0023, 0.0034, 0.0034, 0.0045, 0.0045, 0.0053, 0.0056, 0.0056, 0.0107, 0.0161, 0.0215] | pro rata max |.|: 0.0
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.3 lam=0.3: [0.0, 0.0, 0.027, 0.027] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.3 lam=0.45: [0.0, 0.0125, 0.0125, 0.0125] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.3 lam=0.6: [0.0, 0.027, 0.0, 0.0] NOT monotone
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.3 lam=0.75: [0.0, 0.0, 0.0422, 0.0421] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.6 lam=0.3: [0.0, 0.0, 0.027, 0.027] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.6 lam=0.45: [0.0, 0.0086, 0.0086, 0.0086] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.6 lam=0.6: [0.0, 0.0269, 0.0269, 0.0269] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=2 q=0.6 lam=0.75: [0.0, 0.0, 0.0336, 0.0422] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=3 q=0.3 lam=0.75: [0.0, 0.0, 0.0294, 0.0467] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=3 q=0.6 lam=0.3: [0.0, 0.0, 0.0312, 0.0397] non-decreasing
+slope 0/0.3/0.6/0.9 (persist 0.7) K=3 q=0.6 lam=0.6: [0.0, 0.0163, 0.03, 0.0338] non-decreasing
+slope: non-decreasing 10, not monotone 1
